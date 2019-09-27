@@ -3,7 +3,7 @@ Operates turtlebot3 in ROS
 
 You have to make a file("move2goals_node_data.txt").
 
-There is a necessary components.
+There is necessary components.
 1) Numbers of goal.
 2) Data of goals (position.x position.y orientation.z orientation.w)
    Separator is a space.
