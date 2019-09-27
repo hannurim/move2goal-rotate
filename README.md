@@ -1,5 +1,5 @@
 # Move to goals and Rotate
-operates turtlebot3 in ROS
+Operates turtlebot3 in ROS
 
 You have to make a file("move2goals_node_data.txt").
 
