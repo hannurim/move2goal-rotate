@@ -1,4 +1,4 @@
-# ROS_turtlebot3
+# move2goal and rotate
 operates turtlebot3 in ROS
 
 You have to make a file("move2goals_node_data.txt").
