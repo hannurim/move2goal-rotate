@@ -62,4 +62,7 @@ int main(int argc, char **argv)
 }
 
 // practice github command
+<<<<<<< HEAD
 // add other change
+=======
+>>>>>>> 97b5bd614757e79d0b8502de7f4a7a47005b5fdc
